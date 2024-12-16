@@ -1,0 +1,17 @@
+# Ignore training datasets
+data/
+*.csv
+*.parquet
+
+# Ignore notebooks
+*.ipynb
+notebooks/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Git files
+.git/
+.gitignore
